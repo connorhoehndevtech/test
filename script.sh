@@ -2,4 +2,4 @@
 B=300
 C=`expr $A + $B`
 echo $C
-hello2
+printenv
